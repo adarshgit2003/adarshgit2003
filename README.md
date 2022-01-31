@@ -1,5 +1,7 @@
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_R2mKR02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg)](https://adarshgit2003.github.io)
+
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Shrivastav</h1>
-<h3 align="center">Competitive Programmer and Logical Problem Solver</h3>
+<h3 align="center">A Competitive Programmer and Logical Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshgit2003&label=Profile%20views&color=0e75b6&style=flat" alt="adarshgit2003" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 💬 Ask me about **CP and DSA Questions**
 
-- 📫 How to reach me **https://www.linkedin.com/in/adarsh-kumar-shrivastav-395572203/**
+- 📫 How to reach me **www.aksmw@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Se-z1S8iBOvP3GlbcfSQhaBd8X2uWvsK/view?usp=sharing](https://drive.google.com/file/d/1Se-z1S8iBOvP3GlbcfSQhaBd8X2uWvsK/view?usp=sharing)
 
