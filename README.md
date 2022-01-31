@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh Kumar Shrivastav
 - 👀 I’m interested in Competitive Programming and Logical Problem Solving
-- 🌱 I’m currently learning Data Structure & Al
+- 🌱 I’m currently learning Data Structure & Algorithms
 - 💞️ I’m looking to collaborate on Questions regarding DSA and CP
 - 📫 How to reach me https://www.linkedin.com/in/adarsh-kumar-shrivastav-395572203/
 
