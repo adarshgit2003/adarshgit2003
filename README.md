@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_R2mKR02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg)](https://adarshgit2003.github.io)
+<!-- [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_R2mKR02--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_500/https://s3.us-east-2.amazonaws.com/devletters/covers/matrix.jpeg)](https://adarshgit2003.github.io) -->
 
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Shrivastav</h1>
 <h3 align="center">A Competitive Programmer and Logical Problem Solver</h3>
